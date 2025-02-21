@@ -24,7 +24,7 @@ export default function DashboardPage() {
             </Button>
           </div>
           <p className="text-muted-foreground">
-            This is a protected dashboard page. You can only see this if you're logged in.
+            This is Dashboard Page
           </p>
         </div>
       </div>
