@@ -16,9 +16,8 @@ Before you begin, ensure you have the following installed on your system:
 3. Run the following command to clone the repository:
    ``` git clone https://github.com/thisissuman/assignment-ust.git ```
 4. Once the repository is cloned, navigate into the project directory:
-
-  ``` cd assignment-ust ```
+   ``` cd assignment-ust ```
 5. Step 2: Install Dependencies
-``` npm install ```
+   ``` npm install ```
 6. Run the Development Server
-``` npm run dev ```
+   ``` npm run dev ```
